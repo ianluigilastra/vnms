@@ -1,0 +1,57 @@
+<template name="viewFastFacts">
+	
+	<div class="panel panel-default">
+	<div class="panel-heading">
+	<div class="row">
+		<div class="col-sm-12">
+		<div class="view-title">Fast Facts</div>
+		<button class="btn btn-default btn-lg" style="float:right;" id="btn-back"><span class="glyphicon glyphicon-arrow-left"></span></button>
+		<button class="btn btn-default btn-lg" style="float:right; margin-right:5px;" id="btn-delete"><span class="glyphicon glyphicon-trash"></span></button>
+		<button class="btn btn-default btn-lg" style="float:right; margin-right:5px;" id="btn-edit"><span class="glyphicon glyphicon-pencil"></span></button>
+		</div>
+		{{#if isTopNews}}
+			<span class="label label-danger" style="margin-left:5px;">THIS IS TOP NEWS</span>
+		{{/if}}
+	</div>
+	</div>
+	{{#if Template.subscriptionsReady}}
+		<div id="info-view">
+			{{#with fastFactsData}}
+			<div class="row">
+				<div class="col-sm-3">
+					<h5>Date:</h5>
+				</div>
+				<div class="col-sm-9">
+					<p>{{rev}}</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-3">
+					<h5>Description:</h5>
+				</div>
+				<div class="col-sm-9">
+					<p>{{description}}</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-3">
+					<h5>Filename:</h5>
+				</div>
+				<div class="col-sm-9">
+					<p>{{fileName}}</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-3">
+					<h5>Type:</h5>
+				</div>
+				<div class="col-sm-9">
+					<p>{{type}}</p>
+				</div>
+			</div>
+			{{/with}}
+		</div>
+		{{/if}}
+		<center><button id="btn-top-news" class="btn btn-lg btn-primary" type="button" style="margin-bottom:10px;">Make this TOP NEWS</button></center>
+	</div>
+</template>

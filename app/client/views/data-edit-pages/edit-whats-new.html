@@ -1,0 +1,68 @@
+<template name="editWhatsNew">
+	<div class="panel panel-primary">
+		<div class="panel-heading"><div class="vsh-nf-pg-title">Edit What's New in Vishay.com</div></div>
+		<div class="panel-body">
+		
+		{{#if Template.subscriptionsReady}}
+		{{#each data}}
+		<form id="vnm-form">
+		<div class="panel panel-default">
+		<div class="panel-heading"><b>Whats new on vishay.com details</b></div>
+		<div class="panel-body">
+			<div class="input-group date">
+				<span class="input-group-addon" id="basic-addon1">Date</span>
+				<input required value="{{rev}}" id="txt-date" type="text" class="form-control"><span class="input-group-addon"><i class="glyphicon glyphicon-th"></i></span>
+			</div>
+			<br>
+
+			<div class="input-group">
+					<span class="input-group-addon" id="basic-addon1">Product Group</span>
+			    	<select required class="form-control" id="sel-prod-group">
+						<option value="{{categoryId}}">{{catName categoryId}}</option>
+						{{#each semiconductors}}
+						<optgroup label="{{key}}">
+							{{#each subSemiconductors this.num}}
+								<option value="{{num}}">{{{key}}}</option>
+							{{/each}}
+						</optgroup>
+						{{/each}}
+						{{#each passiveComponents}}
+						<optgroup label="{{key}}">
+							{{#each subPassiveComponents this.num}}
+								<option value="{{num}}">{{{key}}}</option>
+							{{/each}}
+						</optgroup>
+						{{/each}}
+					</select>
+			</div>
+			<br>
+
+			<div class="input-group">
+				<span class="input-group-addon" id="basic-addon1">Title</span>
+				<textarea value="{{description}}" required id="txt-title" rows="3" class="form-control" placeholder="Enter New Product info description" aria-describedby="basic-addon1"></textarea>
+			</div>
+			<br>
+
+				<div class="panel panel-default">
+					<div class="panel-heading"><b>Upload Files</b></div>
+					<div class="panel-body">
+						{{> upload_bootstrap fileTypes='.pdf' multiple=false callbacks=myCallbacks}}
+						<div class="current-file"><strong>current file : </strong><a href="/upload/newsfeed/docs/{{fileName}}">{{fileName}}</a></div>
+						</div>
+					</div>
+				</div> <!-- UPLOAD PANEL ENDS HERE -->
+
+		</div><!-- panel body ends here -->
+		</form>
+		{{/each}}
+		{{/if}}
+		<div class="alert alert-success" role="alert" style="display:none;"><strong>Success!!</strong> added new What's new in vishay.com. </div>
+
+		</div>
+		
+		</div>
+
+	<button id="btn-back" class="btn btn-default" style="float:right; margin-left:5px;"> <span class="glyphicon glyphicon-circle-arrow-left" aria-hidden="true"></span> Back </button>
+	<button id="btn-save" class="btn btn-default" style="float:right;"> <span class="glyphicon glyphicon-floppy-saved" aria-hidden="true"></span> Save </button>
+
+</template>

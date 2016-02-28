@@ -1,0 +1,71 @@
+<template name="newsfeedSubscriber">
+	<div class="panel panel-primary">
+	<div class="panel-heading">
+		<div class="row">
+				<div class="col-sm-12">
+				<div class="vsh-nf-pg-title">Vishay Newsfeed Subscribers</div>
+				</div>
+		</div>
+	</div>
+	
+	{{#if Template.subscriptionsReady}}
+		{{> newsfeedSubscriberTbl}}
+	{{else}}
+			{{> preloader}}
+	{{/if}}
+	
+	</div>
+</template>
+
+<template name="newsfeedSubscriberTbl">
+	{{>pagination dataCount}}
+	<div class="panel-body">
+		<div id="dataview-data" style="padding-top:15px">
+				<table id="dataview-table" class="table table-striped table-hover">
+					<thead id="dataview-table-header">
+						<tr id="dataview-table-header-row">
+							<th class="th-sortable" data-sort="name">
+								User ID
+							</th>
+							<th class="th-sortable" data-sort="phone">
+								First Name
+							</th>
+							<th class="th-sortable" data-sort="note">
+								Last Name
+							</th>
+							<th class="th-sortable" data-sort="note">
+								Subscription Period
+							</th>
+							<th class="th-sortable" data-sort="note">
+								Subscription Date
+							</th>
+							<th></th>
+						</tr>
+					</thead>
+					<tbody id="dataview-table-items">
+						{{#each data}}
+							 <tr id="dataview-table-items-row" class="dataview-table-items-row" style="cursor: pointer;">
+								<td class="dataview-table-item" _id="{{this._id}}">
+									{{userId}}
+								</td>
+								<td class="dataview-table-item" _id="{{this._id}}">
+									{{firstName}}
+								</td>
+								<td class="dataview-table-item" _id="{{this._id}}">
+									{{lastName}}
+								</td>
+								<td class="dataview-table-item" _id="{{this._id}}">
+									{{period}}
+								</td>
+								<td class="dataview-table-item" _id="{{this._id}}">
+									{{subscriptionDate}}
+								</td>
+								<td class="iconCol">
+								</td>
+							 </tr> 
+						{{/each}}
+					</tbody>
+				</table> 
+		</div>
+	</div>
+</template>

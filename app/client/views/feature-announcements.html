@@ -1,0 +1,62 @@
+<template name="featureAnnouncements">
+	<div class="panel panel-primary">
+	<div class="panel-heading">
+		<div class="row">
+				<div class="col-sm-10">
+				<div class="vsh-nf-pg-title">Feature Announcements</div>
+				</div>
+				<div class="col-sm-2">
+					<button style="float:right;" type="button" data-toggle="tooltip" data-placement="top" data-original-title="Click to add new Product Info" class="btn btn-default btn-lg" id="new-npi"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span></button>
+				</div>
+		</div>
+	</div>
+	
+	{{#if Template.subscriptionsReady}}
+		{{> featureAnnouncementsTbl}}
+	{{else}}
+		{{> preloader}}
+	{{/if}}
+	
+	</div>
+</template>
+
+<template name="featureAnnouncementsTbl">
+	{{>pagination dataCount}}
+	<div class="panel-body">
+		<div id="dataview-data" style="padding-top:15px">
+				<table id="dataview-table" class="table table-striped table-hover">
+					<thead id="dataview-table-header">
+						<tr id="dataview-table-header-row">
+							<th class="th-sortable" data-sort="name">
+								Date
+							</th>
+							<th class="th-sortable" data-sort="phone">
+								Title
+							</th>
+							<th class="th-sortable" data-sort="note">
+								Blurb
+							</th>
+							<th></th>
+						</tr>
+					</thead>
+					<tbody id="dataview-table-items">
+						{{#each data}}
+							 <tr id="dataview-table-items-row" class="dataview-table-items-row" style="cursor: pointer;">
+								<td class="dataview-table-item" _id="{{this._id}}">
+									{{formatDate date}}
+								</td>
+								<td class="dataview-table-item-url" _id="{{this._id}}">
+									<a href="{{url}}" target="_blank">{{title}}</a>
+								</td>
+								<td class="dataview-table-item" _id="{{this._id}}">
+									{{description}}
+								</td>
+								<td class="iconCol">
+								</td>
+							 </tr> 
+						{{/each}}
+					</tbody>
+				</table> 
+		</div>
+	</div>
+</template>

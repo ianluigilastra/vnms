@@ -1,0 +1,75 @@
+<template name="layout">
+ <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+<div class="page-heaeder">
+		{{>header}}
+</div>
+
+<div id="wrapper" class="toggled">
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#" id="menu-toggle">
+                      Dashboard
+                    </a>
+                </li>
+                <hr>
+                <li>
+                    <a href="/apps/newsfeed/top-news"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span>  Top News </a>
+                </li>
+                <hr>
+                <li>
+                    <a href="/apps/newsfeed/new-product-info"><span class="glyphicon glyphicon-tasks" aria-hidden="true"></span>  New Product Info(NPI)</a>
+                </li>
+                <li>
+                    <a href="/apps/newsfeed/newsletters"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>  Newsletters</a>
+                </li>
+                <li>
+                    <a href="/apps/newsfeed/fast-facts"><span class="glyphicon glyphicon-flash" aria-hidden="true"></span>  Fast Facts</a>
+                </li>
+                <li>
+                    <a href="/apps/newsfeed/feature-announcements"><span class="glyphicon glyphicon-volume-up" aria-hidden="true"></span>  Feature Announcements</a>
+                </li>
+                <li>
+                    <a href="/apps/newsfeed/whats-new-on-vishay"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span>  What's New On Vishay.com</a>
+                </li>
+                <hr>
+                <li>
+                    <a href="/apps/newsfeed/app-note-tech-notes"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>  App Notes & Tech Notes</a>
+                </li>
+                <li>
+                    <a href="/apps/newsfeed/literature-library"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>  Literature Library</a>
+                </li>
+                <hr>
+                 <li>
+                    <a href="/apps/newsfeed/newsfeed-email"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>  Newsfeed Email</a>
+                </li>
+                 <li>
+                    <a href="/apps/newsfeed/newsfeed-subscriber"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>  Newsfeed Subscriber</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                       {{>yield}}
+                     
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+
+  {{>footer}}
+</template>

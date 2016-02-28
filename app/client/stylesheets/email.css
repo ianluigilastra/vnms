@@ -1,0 +1,102 @@
+/*.email-tbl table#email-nav td {
+    border: 2px solid;padding: 0px 15px;text-align: center;font-size: 12px;font-weight: bold;border-color: #72C1EF;background-color: rgb(249, 249, 249);margin-bottom: 15px;
+}
+
+.email-tbl {
+    margin-bottom: 10px;
+}
+
+.email-content-header {
+    background-color: #489CE4;color: white;font-size: 20px;padding-left: 30px;margin-bottom: 3px;
+}
+
+.email-container {
+    max-width: 1080px;padding: 15px;margin-left: 5%;margin-right: 5%;box-shadow: 2px 6px 16px gray;
+}
+
+.email-header {
+    height: 120px;
+}
+.email-hdr-title {
+    float: left;font-size: 40px;margin-top: 25px;
+}
+.email-hdr-img {
+    float: left;height: 100%;
+}
+
+.email-hdr-right {
+    float: right;
+}
+.email-hdr-icons {
+    position: relative;float: right;top: 10px;right: 10px;
+}
+.email-hdr-date {
+    position: relative;float: right;top: 90px;left: 130px;font-size: 18px;color: #4A95D6;
+}
+.email-content-body {
+    background-color: white;width: 100%;height: auto;display: table;
+}
+
+
+.email-content-top-news {
+    background-color: #A9D5E9;width: 100%;height: auto;display: table;
+}
+
+.email-content-npi {
+    background-color: #E2E2E2;width: 100%;height: auto;display: table;
+}
+
+.top-news-image img {
+    height: 230px;margin: 25px;border: white solid 5px;
+}
+.top-news-image {
+    float: right;
+}
+.top-news-desc {
+    float: left;margin-top: 15px;font-size: 35px;
+}
+.news-badge {
+    float: left;margin: 12px;
+}
+
+
+.npi-image {
+    width: 180px;float: left;margin-left: 40px;margin-top: 15px;margin-bottom: 15px;
+}
+.npi-image img {
+    height: 120px;
+}
+.container-npi {
+    display: table-row;
+}
+.npi-desc {
+    margin-top: 15px;font-size: 25px;width: 90%;
+}
+.view-all-npi {
+    float: right;margin-right: 30px;font-size: 12px;font-weight: bold;margin-bottom: 10px;
+}
+
+
+.nl-image {
+    width: 180px;float: left;margin-left: 40px;margin-top: 15px;margin-bottom: 15px;
+}
+.nl-image img {
+    height: 120px;
+}
+.container-nl {
+    display: table-row;
+}
+.nl-desc {
+    margin-top: 15px;font-size: 25px;width: 90%;
+}
+
+.email-footer {
+    border-top: gray solid 4px;margin-top: 15px;padding-top: 10px;font-size: 14px;
+}
+.app-note-tech-note-desc {
+    font-size: 18px;margin-left: 25px;line-height: 40px;
+}
+
+.fast-fact-desc {
+    font-size: 18px;margin-left: 25px;line-height: 40px;
+}*/

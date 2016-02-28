@@ -1,0 +1,84 @@
+<template name="addNewProductInfo">
+	<div class="panel panel-primary">
+		<div class="panel-heading"><div class="vsh-nf-pg-title"> Add New Product Info (NPI)</div></div>
+		<div class="panel-body">
+		<form id="npi-form" data-parsley-validate>			
+		<div class="panel panel-default">
+		<div class="panel-heading"><b>Product info details</b></div>
+		<div class="panel-body">
+			<div class="input-group date">
+				<span class="input-group-addon" id="basic-addon1">Date</span>
+				<input id="txt-date" type="text" class="form-control" required><span class="input-group-addon"><i class="glyphicon glyphicon-th"></i></span>
+			</div>
+			<br>
+			<div class="input-group">
+				<span class="input-group-addon" id="basic-addon1">Description</span>
+				<textarea data-parsley-validate-if-empty id="txt-description" rows="3" class="form-control" placeholder="Enter New Product info description" aria-describedby="basic-addon1" required></textarea>
+			</div>
+			<br>
+			<div class="input-group">
+				<span class="input-group-addon" id="basic-addon1">Buy Now</span>
+				<input data-parsley-validate-if-empty id="txt-buynow" class="form-control" placeholder="Enter Part number / Series" aria-describedby="basic-addon1">
+			</div>
+			<br>
+			<div class="input-group">
+					<span class="input-group-addon" id="basic-addon1">Product Group</span>
+			    	<select class="form-control" id="sel-prod-group" required>
+						<option value="">Select Product Group</option>
+						{{#each semiconductors}}
+						<optgroup label="{{key}}">
+							{{#each subSemiconductors this.num}}
+								<option value="{{num}}">{{{key}}}</option>
+							{{/each}}
+						</optgroup>
+						{{/each}}
+						{{#each passiveComponents}}
+						<optgroup label="{{key}}">
+							{{#each subPassiveComponents this.num}}
+								<option value="{{num}}">{{{key}}}</option>
+							{{/each}}
+						</optgroup>
+						{{/each}}
+					</select>
+			</div>
+
+			<br>
+
+			<div class="input-group">
+					<span class="input-group-addon" id="basic-addon1">Brand</span>
+			    	<select class="form-control" id="sel-brand" required>
+			    		<option value="">Select Brand</option>
+						{{#each brands }}
+								<option value="{{name}}">{{{name}}}</option>
+							{{/each}}
+					</select>
+			</div>
+		</div>
+		</div>
+
+		<div class="panel panel-default">
+			<div class="panel-heading"><b>Upload Files</b></div>
+			<div class="panel-body">
+			<div class="upload-pdf">
+				<span>New product info (PDF)</span>
+					{{> upload_bootstrap fileTypes='.pdf' multiple=false callbacks=myCallbacks}}
+			</div>
+			<br>
+			<div class="upload-jpg">
+				<span>Image File</span>
+					{{> upload_bootstrap fileTypes='.jpg' multiple=false callbacks=myCallbacksjpg}}
+			</div>
+			</div>
+		</div> <!-- UPLOAD PANEL ENDS HERE -->
+		</form>
+		<div class="alert alert-success" role="alert" style="display:none;"><strong>Success!!</strong> added new product info </div>
+		</div><!-- panel body ends here -->
+	
+	
+
+	</div> <!-- PANEL PRIMARY ENDS HERE -->
+	
+	<button id="btn-npi-back" class="btn btn-default" style="float:right; margin-left:5px;"> <span class="glyphicon glyphicon-circle-arrow-left" aria-hidden="true"></span> Back </button>
+	<button id="btn-npi-save" class="btn btn-default" style="float:right;" type=""> <span class="glyphicon glyphicon-floppy-saved" aria-hidden="true"></span> Save </button>
+
+</template>

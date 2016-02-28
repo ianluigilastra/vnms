@@ -1,0 +1,106 @@
+<template name="topNews">
+	<div class="panel panel-primary">
+	<div class="panel-heading"><div class="vsh-nf-pg-title">Top news</div></div>
+		<div class="panel-body">
+			{{#with topNewsData}}
+				<div class="row">
+				<div class="col-sm-12">
+				<div class="top-news-date">{{formatDate date}}</div>
+				</div>
+				<div class="col-sm-7">
+				<div class="top-news-description">{{title}}</div>
+				</div>
+				<div class= "col-sm-5">
+					<img src="/upload/{{imagePath}}" style="float:right; height: 120px; display: block;border: aliceblue dotted;" onerror="this.src = '/img/image-not-found.jpg';">
+				</div>
+				</div>
+			{{/with}}
+
+		</div>
+	</div>
+
+	<div class="panel panel-default">
+	<div class="panel-heading"><h4>All Top News</h4></div>
+	<div class="panel-body">
+		{{> topNewsTbl}}
+	</div>
+	</div>
+
+
+</template>
+
+<template name="topNewsTbl">
+	{{>pagination dataCount}}
+	<div class="panel-body">
+		<div class="alert-here"></div>
+		<div id="dataview-data" style="padding-top:15px">
+				<table id="dataview-table" class="table table-striped table-hover">
+					<thead id="dataview-table-header">
+						<tr id="dataview-table-header-row">
+							<th class="th-sortable" data-sort="name">
+								Date
+							</th>
+							<th class="th-sortable" data-sort="phone">
+								Title
+							</th>
+							<th class="th-sortable" data-sort="note">
+								Product Group
+							</th>
+							<th></th>
+						</tr>
+					</thead>
+					<tbody id="dataview-table-items">
+						{{#each allTopNews}}
+							 <tr id="dataview-table-items-row" class="dataview-table-items-row" style="cursor: pointer;">
+								<td class="dataview-table-item" _id="{{this._id}}">
+									{{formatDate rev}}
+								</td>
+								<td class="dataview-table-item-url" _id="{{this._id}}">
+									<a href="{{this.url}}" target="_blank">{{title}}</a>
+								</td>
+								<td class="dataview-table-item" _id="{{this._id}}">
+									{{productGroup}}
+								</td>
+								<td class="iconCol">
+									<button class="btn btn-default btn-sm" id="btn-del" style="float:right;margin-left: 3px;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span></button>
+									<button data-toggle="modal" data-target="#edit-date" class="btn btn-default btn-sm" id="btn-edit-date" style="float:right;margin-left: 3px;" data-placement="bottom" data-original-title="This allows you to edit the selected top news date"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span></button>
+									<button class="btn btn-default btn-sm" id="btn-set-top" style="float:right;margin-left: 3px;"><span class="glyphicon glyphicon-tag" aria-hidden="true"></span></button>
+								</td>
+							 </tr> 
+						{{/each}}
+					</tbody>
+				</table> 
+		</div>
+	</div>
+
+
+	<div id="edit-date" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+		<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Edit Top News Date</h4>
+				</div>
+				<div class="modal-body">
+					<h5>Update the date of selected top news</h5>
+					{{#each editTopNews returnId}}
+						<label>Title: </label>
+						<h5>{{title}}</h5>
+						
+					<div class="input-group date">
+						<span class="input-group-addon" id="basic-addon1">Date</span>
+						<input required value="{{formatDate rev}}" id="txt-date" type="text" class="form-control"><span class="input-group-addon"><i class="glyphicon glyphicon-th"></i></span>
+					</div>
+
+					{{/each}}
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-primary" data-dismiss="modal" id="btn-save-edit">Save</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</template>

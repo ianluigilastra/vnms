@@ -1,0 +1,162 @@
+/*=============================================*/
+/*CSS BELOW ARE RELATED TO LABES AND TYPOGRAPHS*/
+/*=============================================*/
+.typographies {
+    font-size: 12px;
+    margin: 3px;
+    float: left;
+}
+
+.panel-control {
+    background-color: black;
+    color: white;
+}
+/*=====================================*/
+/*CSS BELOW ARE FOR THE NAVIGATION BARS*/
+/*=====================================*/
+.vsh-navbar-header {
+    width: 350px;
+}
+.vsh-navbar-header.navbar-header > a {
+    color: rgb(124, 211, 93);
+}
+
+img.logo {
+    float: left;
+    margin-right: 5px;
+    margin-top: 8px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    background-color: #c5c5c5;
+    padding: 10px 0;
+    z-index: 9999;
+}
+
+.banner-title {
+    color: #FBFBFB;
+    font-size: 16px;
+    font-style: italic;
+    padding-top: 12px;
+}
+
+/*=====================================*/
+/*CSS BELOW IS FOR THE HOME PAGE       */
+/*=====================================*/
+
+.bg {
+    background: url('/img/homePage.jpg') no-repeat center center;
+    position: fixed;
+    width: 100%;
+    height: 1023px;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background-size: cover;
+}
+.jumbotron {
+    margin-bottom: 0px;
+    height: 350px;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    background: transparent;
+}
+
+/*=====================================*/
+/*CSS BELOW IS FOR THE PAGINATION      */
+/*=====================================*/
+
+
+.pagination-controls {
+    float: right;
+    display: inline;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.pagination-page-info {
+    float: left;
+    display: inline;
+    margin-left: 25%;
+    font-weight: bold;
+}
+.pagination-total-rec {
+    float: left;
+    display: inline;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.vsh-nf-pagination {
+    padding-top: 10px;
+}
+
+/*=====================================*/
+/*CSS BELOW IS FOR PAGES               */
+/*=====================================*/
+
+.vsh-nf-pg-title {
+    text-shadow: black 0.1em 0.1em 0.1em;
+    font-size: 25px;
+}
+
+/*=====================================*/
+/*CSS BELOW IS FOR data table          */
+/*=====================================*/
+
+
+.glyphicon {
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/*=====================================*/
+/*CSS BELOW IS FOR Item views          */
+/*=====================================*/
+div#info-view .row {
+    border-top: 1px dotted #cccccc;
+    padding: 10px;
+}
+
+.view-title {
+    font-size: 25px;
+    font-family: monospace;
+    text-shadow: rgba(50, 48, 58, 0.32) 0.1em 0.1em 0.1em;
+    width: 50%;
+    float: left;
+}
+
+/*=====================================*/
+/*CSS BELOW IS FOR full screen         */
+/*=====================================*/
+
+@media(min-width:768px) {
+    
+    .banner-title {
+        color: #FBFBFB;
+        font-size: 20px;
+        font-style: italic;
+        padding-top: 12px;
+    }
+
+    img.logo {
+        float: left;
+        margin-right: 5px;
+        margin-top: 8px;
+    }
+
+    .vsh-navbar-header {
+        width: 450px;
+    }
+
+}
+
+
+
+.top-news-description {
+    font-size: 25px;
+}

@@ -1,0 +1,74 @@
+<template name="editNewNewsletter">
+
+	<div class="panel panel-primary">
+	<div class="panel-heading"><div class="vsh-nf-pg-title">Edit New Newsletter</div></div>
+	<div class="panel-body">
+
+		<div class="panel panel-default">
+			<div class="panel-heading">Newsletter details</div>
+			<div class="panel-body">
+			
+			<form id="vnm-form">
+			{{#if Template.subscriptionsReady}}
+			{{#each data}}
+					<div class="input-group date" style="width:400px;">
+						<span class="input-group-addon" id="basic-addon1" placeholder="If you don't specify the system will automatically fill up for you. (date today)">Date</span>
+						<input value="{{date}}" required id="txt-date" type="text" class="form-control"><span class="input-group-addon"><i class="glyphicon glyphicon-th"></i></span>
+					</div>
+					<br>
+					
+					<div class="input-group" style="float:left;margin-bottom:10px;">
+					<span class="input-group-addon" id="basic-addon1">Newsletter Category</span>
+					<select required class="form-control" id="sel-NL-category" style="width:250px">
+					<option value="{{newsletterCategoryId}}">{{category newsletterCategoryId}}</option>
+					{{#each newsletterCategories }}
+						<option value="{{newsletterCategoryId}}">{{category newsletterCategoryId}}</option>
+					{{/each}}
+					</select>
+					</div>
+					<br>
+					<div class="input-group">
+						<span class="input-group-addon" id="basic-addon1">Title</span>
+						<input value="{{title}}" required id="txt-title" class="form-control" placeholder="Enter newsletter title" aria-describedby="basic-addon1">
+					</div>
+					<br>
+					<div class="input-group">
+						<span class="input-group-addon" id="basic-addon1">URL (For HTML Version)</span>
+						<input value="{{url}}" required id="txt-url" class="form-control" placeholder="Enter URL.." aria-describedby="basic-addon1">
+					</div>
+					<br>
+					
+					<div class="panel panel-default">
+						<div class="panel-heading"><b>Upload Files</b></div>
+						<div class="panel-body">
+						<div class="upload-pdf">
+							<span>New product info (PDF)</span>
+								{{> upload_bootstrap fileTypes='.pdf' multiple=false callbacks=myCallbacks}}
+								<div class="current-file"><strong>current file : </strong><a href="/upload/newsfeed/docs/{{fileName}}">{{docName}}</a></div>
+						</div>
+						<br>
+						<div class="upload-jpg">
+							<span>Image File</span>
+								{{> upload_bootstrap fileTypes='.jpg' multiple=false callbacks=myCallbacksjpg}}
+								<div class="current-image"><strong>current image : </strong><a href="/upload/newsfeed/img/{{fileName}}">{{imageName}}</a></div>
+						</div>
+						</div>
+					</div> <!-- UPLOAD PANEL ENDS HERE -->
+				{{/each}}
+				{{/if}}
+				</form>
+				<div class="alert alert-success" role="alert" style="display:none;"><strong>Success!!</strong> added new Newsletter. </div>
+
+			</div>
+
+
+		</div>
+	</div> 
+
+	</div>
+
+	
+	<button id="btn-back" class="btn btn-default" style="float:right; margin-left:5px;"> <span class="glyphicon glyphicon-circle-arrow-left" aria-hidden="true"></span> Back </button>
+	<button id="btn-save" class="btn btn-default" style="float:right;"> <span class="glyphicon glyphicon-floppy-saved" aria-hidden="true"></span> Save </button>
+
+</template>

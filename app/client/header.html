@@ -1,0 +1,42 @@
+<template name="header">
+<nav class="vsh-nav navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="vsh-navbar-header navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <img class="logo" src="/img/logo.png" height="100%"> 
+        <div class="banner-title">Vishay Newsfeed Maintenance</div>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#" id="menu-toggle" style="color:white" data-toggle="tooltip" data-placement="bottom" data-original-title="Click to slide dashboard">Dashboard</a></li>
+            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Create newsfeed<span class="caret"></span></a>
+               <ul class="dropdown-menu">
+            <li><a href="/new-product-info/add-new-product-info">New Product Info</a></li>
+            <li><a href="/newsletters/add-new-newsletter">Newsletters</a></li>
+            <li><a href="/fast-facts/add-new-fastFacts">Fast Facts</a></li>
+             <li><a href="/feature-announcements/add-feature-announcements">Featured Announcements</a></li>
+            <li><a href="/whats-new-on-vishay/add-whats-new">What's New On Vishay.com</a></li>
+          </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <br><br>
+
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+
+    $(document).ready(function(){
+      $('#menu-toggle').tooltip();
+    })
+    </script>
+</template>

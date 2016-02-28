@@ -1,0 +1,50 @@
+<template name="appNoteTechNotes">
+<div class="panel panel-primary">
+<div class="panel-heading"><div class="vsh-nf-pg-title">App Note Tech Notes</div></div>
+<div class="panel-body">
+
+{{#if Template.subscriptionsReady}}
+
+{{>pagination dataCount}}
+<div id="dataview-data" style="padding-top:15px">
+			<table id="dataview-table" class="table table-striped table-hover">
+				<thead id="dataview-table-header">
+					<tr id="dataview-table-header-row">
+						<th class="th-sortable" data-sort="name">
+							Date
+						</th>
+						<th class="th-sortable" data-sort="phone">
+							Title
+						</th>
+						<th class="th-sortable" data-sort="note">
+							Product Group
+						</th>
+						<th></th>
+					</tr>
+				</thead>
+				<tbody id="dataview-table-items">
+					{{#each appNotesTechNotesData}}
+						 <tr id="dataview-table-items-row" class="dataview-table-items-row" style="cursor: pointer;">
+							<td class="dataview-table-item" _id="{{this._id}}">
+								{{formatDate this.date}}
+							</td>
+							<td class="dataview-table-item-url" _id="{{this._id}}">
+								<a href="{{this.url}}" target="_blank">{{this.desc}}</a>
+							</td>
+							<td class="dataview-table-item" _id="{{this._id}}">
+								{{this.productGroup}}
+							</td>
+							<td class="iconCol">
+							</td>
+						 </tr> 
+					{{/each}}
+				</tbody>
+			</table> 
+		</div>
+	{{else}}
+		{{> preloader}}
+	{{/if}}
+	</div>
+	</div>
+
+</template>

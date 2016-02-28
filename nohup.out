@@ -1,0 +1,2933 @@
+[[[[[ ~/newsfeedMaintenance ]]]]]
+
+=> Started proxy.
+=> A patch (Meteor 1.2.0.2) for your current release is available!
+   Update this project now with 'meteor update --patch'.
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Started your app.
+
+=> App running at: http://lxmv90.corp.vishayint.com:1964/
+[34mI20150929-01:28:08.757(-4)? [39mNewProductInfo  { selector: {}, options: { sort: { rev: -1 } } }
+[34mI20150929-01:28:11.497(-4)? [39m<Buffer 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 6d 75 6c 74 69 70 61 72 74 2f 6d 69 78 65 64 3b 0d 0a 20 62 6f 75 6e 64 61 72 79 3d 22 2d 2d 2d 2d 73 69 6e 69 ...>
+[34mW20150929-01:28:11.514(-4)? (STDERR) [39m[35m[39m
+[34mW20150929-01:28:11.515(-4)? (STDERR) [39m[35m/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:155[39m
+[34mW20150929-01:28:11.515(-4)? (STDERR) [39m[35m		throw new Error('Can\'t wait without a fiber');[39m
+[34mW20150929-01:28:11.515(-4)? (STDERR) [39m[35m		      ^[39m
+[34mW20150929-01:28:11.524(-4)? (STDERR) [39m[35mError: Can't wait without a fiber[39m
+[34mW20150929-01:28:11.524(-4)? (STDERR) [39m[35m    at Function.wait (/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:155:9)[39m
+[34mW20150929-01:28:11.525(-4)? (STDERR) [39m[35m    at Object.Future.wait (/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:397:10)[39m
+[34mW20150929-01:28:11.525(-4)? (STDERR) [39m[35m    at smtpSend (packages/email/packages/email.js:94:1)[39m
+[34mW20150929-01:28:11.525(-4)? (STDERR) [39m[35m    at Object.Email.send (packages/email/packages/email.js:184:1)[39m
+[34mW20150929-01:28:11.525(-4)? (STDERR) [39m[35m    at app/server/globalMethods.js:47:1[39m
+[34mW20150929-01:28:11.525(-4)? (STDERR) [39m[35m    at PassThrough.<anonymous> (/root/newsfeedMaintenance/.meteor/local/isopacks/npm-container/npm/node_modules/mailcomposer/node_modules/buildmail/src/buildmail.js:373:16)[39m
+[34mW20150929-01:28:11.526(-4)? (STDERR) [39m[35m    at PassThrough.g (events.js:180:16)[39m
+[34mW20150929-01:28:11.526(-4)? (STDERR) [39m[35m    at PassThrough.emit (events.js:117:20)[39m
+[34mW20150929-01:28:11.526(-4)? (STDERR) [39m[35m    at _stream_readable.js:944:16[39m
+[34mW20150929-01:28:11.526(-4)? (STDERR) [39m[35m    at process._tickCallback (node.js:448:13)[39m
+=> Exited with code: 8
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Meteor server restarted
+[34mI20150929-01:28:20.448(-4)? [39mNewProductInfo  { selector: {}, options: { sort: { rev: -1 } } }
+=> Server modified -- restarting...Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+                                   => Meteor server restarted
+[34mI20150929-01:29:25.159(-4)? [39mNewProductInfo  { selector: {}, options: { sort: { rev: -1 } } }
+[34mI20150929-01:35:34.565(-4)? [39mNewProductInfo  { selector: {}, options: { sort: { rev: -1 } } }
+[34mI20150929-01:53:43.560(-4)? [39m{ nodeCounter: 3,
+[34mI20150929-01:53:43.560(-4)? [39m  baseBoundary: '14435060235550.6935805885586888',
+[34mI20150929-01:53:43.560(-4)? [39m  date: Tue Sep 29 2015 01:53:43 GMT-0400 (EDT),
+[34mI20150929-01:53:43.560(-4)? [39m  rootNode: [Circular],
+[34mI20150929-01:53:43.561(-4)? [39m  keepBcc: false,
+[34mI20150929-01:53:43.561(-4)? [39m  parentNode: undefined,
+[34mI20150929-01:53:43.561(-4)? [39m  childNodes: 
+[34mI20150929-01:53:43.561(-4)? [39m   [ { nodeCounter: 1,
+[34mI20150929-01:53:43.561(-4)? [39m       baseBoundary: '14435060235560.6632050906773657',
+[34mI20150929-01:53:43.561(-4)? [39m       date: Tue Sep 29 2015 01:53:43 GMT-0400 (EDT),
+[34mI20150929-01:53:43.562(-4)? [39m       rootNode: [Circular],
+[34mI20150929-01:53:43.562(-4)? [39m       keepBcc: false,
+[34mI20150929-01:53:43.562(-4)? [39m       parentNode: [Circular],
+[34mI20150929-01:53:43.562(-4)? [39m       childNodes: [],
+[34mI20150929-01:53:43.562(-4)? [39m       _nodeId: 2,
+[34mI20150929-01:53:43.563(-4)? [39m       _headers: [Object],
+[34mI20150929-01:53:43.563(-4)? [39m       _isPlainText: true,
+[34mI20150929-01:53:43.563(-4)? [39m       _canUseFlowedContent: false,
+[34mI20150929-01:53:43.563(-4)? [39m       _isFlowedContent: false,
+[34mI20150929-01:53:43.564(-4)? [39m       _envelope: false,
+[34mI20150929-01:53:43.564(-4)? [39m       _transforms: [],
+[34mI20150929-01:53:43.564(-4)? [39m       content: 'There\'s an attachment in this email. See the attachment.' },
+[34mI20150929-01:53:43.564(-4)? [39m     { nodeCounter: 1,
+[34mI20150929-01:53:43.565(-4)? [39m       baseBoundary: '14435060235560.6568472974468023',
+[34mI20150929-01:53:43.565(-4)? [39m       date: Tue Sep 29 2015 01:53:43 GMT-0400 (EDT),
+[34mI20150929-01:53:43.565(-4)? [39m       rootNode: [Circular],
+[34mI20150929-01:53:43.566(-4)? [39m       keepBcc: false,
+[34mI20150929-01:53:43.566(-4)? [39m       filename: 'attachment-1.bin',
+[34mI20150929-01:53:43.566(-4)? [39m       parentNode: [Circular],
+[34mI20150929-01:53:43.566(-4)? [39m       childNodes: [],
+[34mI20150929-01:53:43.567(-4)? [39m       _nodeId: 3,
+[34mI20150929-01:53:43.567(-4)? [39m       _headers: [Object],
+[34mI20150929-01:53:43.567(-4)? [39m       _isPlainText: true,
+[34mI20150929-01:53:43.568(-4)? [39m       _canUseFlowedContent: false,
+[34mI20150929-01:53:43.568(-4)? [39m       _isFlowedContent: false,
+[34mI20150929-01:53:43.568(-4)? [39m       _envelope: false,
+[34mI20150929-01:53:43.568(-4)? [39m       _transforms: [],
+[34mI20150929-01:53:43.569(-4)? [39m       content: '' } ],
+[34mI20150929-01:53:43.569(-4)? [39m  _nodeId: 1,
+[34mI20150929-01:53:43.569(-4)? [39m  _headers: 
+[34mI20150929-01:53:43.569(-4)? [39m   [ { key: 'Content-Type', value: 'multipart/mixed' },
+[34mI20150929-01:53:43.570(-4)? [39m     { key: 'From', value: 'ashutosh@badtrip.com' },
+[34mI20150929-01:53:43.570(-4)? [39m     { key: 'To', value: 'IanLuigi.Lastra@vishay.com' },
+[34mI20150929-01:53:43.570(-4)? [39m     { key: 'Subject', value: 'Test attachment' } ],
+[34mI20150929-01:53:43.570(-4)? [39m  _isPlainText: false,
+[34mI20150929-01:53:43.571(-4)? [39m  _canUseFlowedContent: false,
+[34mI20150929-01:53:43.571(-4)? [39m  _isFlowedContent: false,
+[34mI20150929-01:53:43.572(-4)? [39m  _envelope: false,
+[34mI20150929-01:53:43.572(-4)? [39m  _transforms: [] }
+[34mI20150929-01:53:43.572(-4)? [39m<Buffer 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 6d 75 6c 74 69 70 61 72 74 2f 6d 69 78 65 64 3b 0d 0a 20 62 6f 75 6e 64 61 72 79 3d 22 2d 2d 2d 2d 73 69 6e 69 ...>
+[34mW20150929-01:53:43.597(-4)? (STDERR) [39m[35m[39m
+[34mW20150929-01:53:43.598(-4)? (STDERR) [39m[35m/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:155[39m
+[34mW20150929-01:53:43.598(-4)? (STDERR) [39m[35m		throw new Error('Can\'t wait without a fiber');[39m
+[34mW20150929-01:53:43.598(-4)? (STDERR) [39m[35m		      ^[39m
+[34mW20150929-01:53:43.609(-4)? (STDERR) [39m[35mError: Can't wait without a fiber[39m
+[34mW20150929-01:53:43.609(-4)? (STDERR) [39m[35m    at Function.wait (/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:155:9)[39m
+[34mW20150929-01:53:43.609(-4)? (STDERR) [39m[35m    at Object.Future.wait (/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:397:10)[39m
+[34mW20150929-01:53:43.609(-4)? (STDERR) [39m[35m    at smtpSend (packages/email/packages/email.js:94:1)[39m
+[34mW20150929-01:53:43.610(-4)? (STDERR) [39m[35m    at Object.Email.send (packages/email/packages/email.js:184:1)[39m
+[34mW20150929-01:53:43.610(-4)? (STDERR) [39m[35m    at app/server/globalMethods.js:48:1[39m
+[34mW20150929-01:53:43.610(-4)? (STDERR) [39m[35m    at PassThrough.<anonymous> (/root/newsfeedMaintenance/.meteor/local/isopacks/npm-container/npm/node_modules/mailcomposer/node_modules/buildmail/src/buildmail.js:373:16)[39m
+[34mW20150929-01:53:43.610(-4)? (STDERR) [39m[35m    at PassThrough.g (events.js:180:16)[39m
+[34mW20150929-01:53:43.610(-4)? (STDERR) [39m[35m    at _stream_readable.js:944:16[39m
+[34mW20150929-01:53:43.610(-4)? (STDERR) [39m[35m    at PassThrough.emit (events.js:117:20)[39m
+[34mW20150929-01:53:43.610(-4)? (STDERR) [39m[35m    at process._tickCallback (node.js:448:13)[39m
+=> Exited with code: 8
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Meteor server restarted
+[34mI20150929-01:53:56.777(-4)? [39mNewProductInfo  { selector: {}, options: { sort: { rev: -1 } } }
+[34mI20150929-02:02:15.430(-4)? [39m{ nodeCounter: 3,
+[34mI20150929-02:02:15.431(-4)? [39m  baseBoundary: '14435065354240.8548645547125489',
+[34mI20150929-02:02:15.431(-4)? [39m  date: Tue Sep 29 2015 02:02:15 GMT-0400 (EDT),
+[34mI20150929-02:02:15.431(-4)? [39m  rootNode: [Circular],
+[34mI20150929-02:02:15.432(-4)? [39m  keepBcc: false,
+[34mI20150929-02:02:15.432(-4)? [39m  parentNode: undefined,
+[34mI20150929-02:02:15.432(-4)? [39m  childNodes: 
+[34mI20150929-02:02:15.432(-4)? [39m   [ { nodeCounter: 1,
+[34mI20150929-02:02:15.432(-4)? [39m       baseBoundary: '14435065354240.12958239135332406',
+[34mI20150929-02:02:15.433(-4)? [39m       date: Tue Sep 29 2015 02:02:15 GMT-0400 (EDT),
+[34mI20150929-02:02:15.433(-4)? [39m       rootNode: [Circular],
+[34mI20150929-02:02:15.433(-4)? [39m       keepBcc: false,
+[34mI20150929-02:02:15.434(-4)? [39m       parentNode: [Circular],
+[34mI20150929-02:02:15.434(-4)? [39m       childNodes: [],
+[34mI20150929-02:02:15.434(-4)? [39m       _nodeId: 2,
+[34mI20150929-02:02:15.434(-4)? [39m       _headers: [Object],
+[34mI20150929-02:02:15.434(-4)? [39m       _isPlainText: true,
+[34mI20150929-02:02:15.435(-4)? [39m       _canUseFlowedContent: false,
+[34mI20150929-02:02:15.435(-4)? [39m       _isFlowedContent: false,
+[34mI20150929-02:02:15.435(-4)? [39m       _envelope: false,
+[34mI20150929-02:02:15.435(-4)? [39m       _transforms: [],
+[34mI20150929-02:02:15.436(-4)? [39m       content: 'There\'s an attachment in this email. See the attachment.' },
+[34mI20150929-02:02:15.436(-4)? [39m     { nodeCounter: 1,
+[34mI20150929-02:02:15.436(-4)? [39m       baseBoundary: '14435065354250.8952447213232517',
+[34mI20150929-02:02:15.436(-4)? [39m       date: Tue Sep 29 2015 02:02:15 GMT-0400 (EDT),
+[34mI20150929-02:02:15.437(-4)? [39m       rootNode: [Circular],
+[34mI20150929-02:02:15.437(-4)? [39m       keepBcc: false,
+[34mI20150929-02:02:15.438(-4)? [39m       filename: 'attachment-1.bin',
+[34mI20150929-02:02:15.438(-4)? [39m       parentNode: [Circular],
+[34mI20150929-02:02:15.438(-4)? [39m       childNodes: [],
+[34mI20150929-02:02:15.438(-4)? [39m       _nodeId: 3,
+[34mI20150929-02:02:15.439(-4)? [39m       _headers: [Object],
+[34mI20150929-02:02:15.439(-4)? [39m       _isPlainText: true,
+[34mI20150929-02:02:15.439(-4)? [39m       _canUseFlowedContent: false,
+[34mI20150929-02:02:15.439(-4)? [39m       _isFlowedContent: false,
+[34mI20150929-02:02:15.440(-4)? [39m       _envelope: false,
+[34mI20150929-02:02:15.440(-4)? [39m       _transforms: [],
+[34mI20150929-02:02:15.440(-4)? [39m       content: '' } ],
+[34mI20150929-02:02:15.440(-4)? [39m  _nodeId: 1,
+[34mI20150929-02:02:15.440(-4)? [39m  _headers: 
+[34mI20150929-02:02:15.441(-4)? [39m   [ { key: 'Content-Type', value: 'multipart/mixed' },
+[34mI20150929-02:02:15.441(-4)? [39m     { key: 'From', value: 'ashutosh@badtrip.com' },
+[34mI20150929-02:02:15.441(-4)? [39m     { key: 'To', value: 'IanLuigi.Lastra@vishay.com' },
+[34mI20150929-02:02:15.441(-4)? [39m     { key: 'Subject', value: 'Test attachment' } ],
+[34mI20150929-02:02:15.442(-4)? [39m  _isPlainText: false,
+[34mI20150929-02:02:15.442(-4)? [39m  _canUseFlowedContent: false,
+[34mI20150929-02:02:15.443(-4)? [39m  _isFlowedContent: false,
+[34mI20150929-02:02:15.444(-4)? [39m  _envelope: false,
+[34mI20150929-02:02:15.444(-4)? [39m  _transforms: [] }
+[34mI20150929-02:02:15.453(-4)? [39m<Buffer 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 6d 75 6c 74 69 70 61 72 74 2f 6d 69 78 65 64 3b 0d 0a 20 62 6f 75 6e 64 61 72 79 3d 22 2d 2d 2d 2d 73 69 6e 69 ...>
+[34mW20150929-02:02:15.467(-4)? (STDERR) [39m[35m[39m
+[34mW20150929-02:02:15.467(-4)? (STDERR) [39m[35m/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:155[39m
+[34mW20150929-02:02:15.468(-4)? (STDERR) [39m[35m		throw new Error('Can\'t wait without a fiber');[39m
+[34mW20150929-02:02:15.468(-4)? (STDERR) [39m[35m		      ^[39m
+[34mW20150929-02:02:15.478(-4)? (STDERR) [39m[35mError: Can't wait without a fiber[39m
+[34mW20150929-02:02:15.478(-4)? (STDERR) [39m[35m    at Function.wait (/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:155:9)[39m
+[34mW20150929-02:02:15.479(-4)? (STDERR) [39m[35m    at Object.Future.wait (/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:397:10)[39m
+[34mW20150929-02:02:15.479(-4)? (STDERR) [39m[35m    at smtpSend (packages/email/packages/email.js:94:1)[39m
+[34mW20150929-02:02:15.479(-4)? (STDERR) [39m[35m    at Object.Email.send (packages/email/packages/email.js:184:1)[39m
+[34mW20150929-02:02:15.479(-4)? (STDERR) [39m[35m    at app/server/globalMethods.js:48:1[39m
+[34mW20150929-02:02:15.479(-4)? (STDERR) [39m[35m    at PassThrough.<anonymous> (/root/newsfeedMaintenance/.meteor/local/isopacks/npm-container/npm/node_modules/mailcomposer/node_modules/buildmail/src/buildmail.js:373:16)[39m
+[34mW20150929-02:02:15.479(-4)? (STDERR) [39m[35m    at PassThrough.g (events.js:180:16)[39m
+[34mW20150929-02:02:15.479(-4)? (STDERR) [39m[35m    at PassThrough.emit (events.js:117:20)[39m
+[34mW20150929-02:02:15.480(-4)? (STDERR) [39m[35m    at _stream_readable.js:944:16[39m
+[34mW20150929-02:02:15.480(-4)? (STDERR) [39m[35m    at process._tickCallback (node.js:448:13)[39m
+=> Exited with code: 8
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Meteor server restarted
+[34mI20150929-02:02:26.134(-4)? [39m{ nodeCounter: 3,
+[34mI20150929-02:02:26.137(-4)? [39m  baseBoundary: '14435065461270.7122669175732881',
+[34mI20150929-02:02:26.137(-4)? [39m  date: Tue Sep 29 2015 02:02:26 GMT-0400 (EDT),
+[34mI20150929-02:02:26.137(-4)? [39m  rootNode: [Circular],
+[34mI20150929-02:02:26.138(-4)? [39m  keepBcc: false,
+[34mI20150929-02:02:26.138(-4)? [39m  parentNode: undefined,
+[34mI20150929-02:02:26.138(-4)? [39m  childNodes: 
+[34mI20150929-02:02:26.138(-4)? [39m   [ { nodeCounter: 1,
+[34mI20150929-02:02:26.138(-4)? [39m       baseBoundary: '14435065461280.8832738688215613',
+[34mI20150929-02:02:26.139(-4)? [39m       date: Tue Sep 29 2015 02:02:26 GMT-0400 (EDT),
+[34mI20150929-02:02:26.139(-4)? [39m       rootNode: [Circular],
+[34mI20150929-02:02:26.139(-4)? [39m       keepBcc: false,
+[34mI20150929-02:02:26.139(-4)? [39m       parentNode: [Circular],
+[34mI20150929-02:02:26.139(-4)? [39m       childNodes: [],
+[34mI20150929-02:02:26.140(-4)? [39m       _nodeId: 2,
+[34mI20150929-02:02:26.140(-4)? [39m       _headers: [Object],
+[34mI20150929-02:02:26.140(-4)? [39m       _isPlainText: true,
+[34mI20150929-02:02:26.140(-4)? [39m       _canUseFlowedContent: false,
+[34mI20150929-02:02:26.140(-4)? [39m       _isFlowedContent: false,
+[34mI20150929-02:02:26.141(-4)? [39m       _envelope: false,
+[34mI20150929-02:02:26.141(-4)? [39m       _transforms: [],
+[34mI20150929-02:02:26.141(-4)? [39m       content: 'There\'s an attachment in this email. See the attachment.' },
+[34mI20150929-02:02:26.141(-4)? [39m     { nodeCounter: 1,
+[34mI20150929-02:02:26.142(-4)? [39m       baseBoundary: '14435065461280.6096859495155513',
+[34mI20150929-02:02:26.142(-4)? [39m       date: Tue Sep 29 2015 02:02:26 GMT-0400 (EDT),
+[34mI20150929-02:02:26.142(-4)? [39m       rootNode: [Circular],
+[34mI20150929-02:02:26.142(-4)? [39m       keepBcc: false,
+[34mI20150929-02:02:26.143(-4)? [39m       filename: 'attachment-1.bin',
+[34mI20150929-02:02:26.143(-4)? [39m       parentNode: [Circular],
+[34mI20150929-02:02:26.143(-4)? [39m       childNodes: [],
+[34mI20150929-02:02:26.144(-4)? [39m       _nodeId: 3,
+[34mI20150929-02:02:26.144(-4)? [39m       _headers: [Object],
+[34mI20150929-02:02:26.144(-4)? [39m       _isPlainText: true,
+[34mI20150929-02:02:26.144(-4)? [39m       _canUseFlowedContent: false,
+[34mI20150929-02:02:26.145(-4)? [39m       _isFlowedContent: false,
+[34mI20150929-02:02:26.145(-4)? [39m       _envelope: false,
+[34mI20150929-02:02:26.145(-4)? [39m       _transforms: [],
+[34mI20150929-02:02:26.145(-4)? [39m       content: '' } ],
+[34mI20150929-02:02:26.146(-4)? [39m  _nodeId: 1,
+[34mI20150929-02:02:26.146(-4)? [39m  _headers: 
+[34mI20150929-02:02:26.146(-4)? [39m   [ { key: 'Content-Type', value: 'multipart/mixed' },
+[34mI20150929-02:02:26.146(-4)? [39m     { key: 'From', value: 'ashutosh@badtrip.com' },
+[34mI20150929-02:02:26.147(-4)? [39m     { key: 'To', value: 'IanLuigi.Lastra@vishay.com' },
+[34mI20150929-02:02:26.147(-4)? [39m     { key: 'Subject', value: 'Test attachment' } ],
+[34mI20150929-02:02:26.147(-4)? [39m  _isPlainText: false,
+[34mI20150929-02:02:26.147(-4)? [39m  _canUseFlowedContent: false,
+[34mI20150929-02:02:26.148(-4)? [39m  _isFlowedContent: false,
+[34mI20150929-02:02:26.148(-4)? [39m  _envelope: false,
+[34mI20150929-02:02:26.149(-4)? [39m  _transforms: [] }
+[34mI20150929-02:02:26.172(-4)? [39m<Buffer 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 6d 75 6c 74 69 70 61 72 74 2f 6d 69 78 65 64 3b 0d 0a 20 62 6f 75 6e 64 61 72 79 3d 22 2d 2d 2d 2d 73 69 6e 69 ...>
+[34mW20150929-02:02:26.188(-4)? (STDERR) [39m[35m[39m
+[34mW20150929-02:02:26.188(-4)? (STDERR) [39m[35m/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:155[39m
+[34mW20150929-02:02:26.188(-4)? (STDERR) [39m[35m		throw new Error('Can\'t wait without a fiber');[39m
+[34mW20150929-02:02:26.189(-4)? (STDERR) [39m[35m		      ^[39m
+[34mW20150929-02:02:26.200(-4)? (STDERR) [39m[35mError: Can't wait without a fiber[39m
+[34mW20150929-02:02:26.200(-4)? (STDERR) [39m[35m    at Function.wait (/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:155:9)[39m
+[34mW20150929-02:02:26.200(-4)? (STDERR) [39m[35m    at Object.Future.wait (/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:397:10)[39m
+[34mW20150929-02:02:26.200(-4)? (STDERR) [39m[35m    at smtpSend (packages/email/packages/email.js:94:1)[39m
+[34mW20150929-02:02:26.201(-4)? (STDERR) [39m[35m    at Object.Email.send (packages/email/packages/email.js:184:1)[39m
+[34mW20150929-02:02:26.201(-4)? (STDERR) [39m[35m    at app/server/globalMethods.js:48:1[39m
+[34mW20150929-02:02:26.201(-4)? (STDERR) [39m[35m    at PassThrough.<anonymous> (/root/newsfeedMaintenance/.meteor/local/isopacks/npm-container/npm/node_modules/mailcomposer/node_modules/buildmail/src/buildmail.js:373:16)[39m
+[34mW20150929-02:02:26.201(-4)? (STDERR) [39m[35m    at PassThrough.g (events.js:180:16)[39m
+[34mW20150929-02:02:26.201(-4)? (STDERR) [39m[35m    at PassThrough.emit (events.js:117:20)[39m
+[34mW20150929-02:02:26.202(-4)? (STDERR) [39m[35m    at _stream_readable.js:944:16[39m
+[34mW20150929-02:02:26.202(-4)? (STDERR) [39m[35m    at process._tickCallback (node.js:448:13)[39m
+=> Exited with code: 8
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Meteor server restarted
+[34mI20150929-02:02:35.095(-4)? [39m{ nodeCounter: 3,
+[34mI20150929-02:02:35.096(-4)? [39m  baseBoundary: '14435065550870.10507959919050336',
+[34mI20150929-02:02:35.096(-4)? [39m  date: Tue Sep 29 2015 02:02:35 GMT-0400 (EDT),
+[34mI20150929-02:02:35.096(-4)? [39m  rootNode: [Circular],
+[34mI20150929-02:02:35.097(-4)? [39m  keepBcc: false,
+[34mI20150929-02:02:35.097(-4)? [39m  parentNode: undefined,
+[34mI20150929-02:02:35.097(-4)? [39m  childNodes: 
+[34mI20150929-02:02:35.097(-4)? [39m   [ { nodeCounter: 1,
+[34mI20150929-02:02:35.099(-4)? [39m       baseBoundary: '14435065550880.03458733344450593',
+[34mI20150929-02:02:35.099(-4)? [39m       date: Tue Sep 29 2015 02:02:35 GMT-0400 (EDT),
+[34mI20150929-02:02:35.099(-4)? [39m       rootNode: [Circular],
+[34mI20150929-02:02:35.099(-4)? [39m       keepBcc: false,
+[34mI20150929-02:02:35.100(-4)? [39m       parentNode: [Circular],
+[34mI20150929-02:02:35.100(-4)? [39m       childNodes: [],
+[34mI20150929-02:02:35.100(-4)? [39m       _nodeId: 2,
+[34mI20150929-02:02:35.100(-4)? [39m       _headers: [Object],
+[34mI20150929-02:02:35.101(-4)? [39m       _isPlainText: true,
+[34mI20150929-02:02:35.101(-4)? [39m       _canUseFlowedContent: false,
+[34mI20150929-02:02:35.101(-4)? [39m       _isFlowedContent: false,
+[34mI20150929-02:02:35.102(-4)? [39m       _envelope: false,
+[34mI20150929-02:02:35.102(-4)? [39m       _transforms: [],
+[34mI20150929-02:02:35.102(-4)? [39m       content: 'There\'s an attachment in this email. See the attachment.' },
+[34mI20150929-02:02:35.102(-4)? [39m     { nodeCounter: 1,
+[34mI20150929-02:02:35.103(-4)? [39m       baseBoundary: '14435065550890.007721420610323548',
+[34mI20150929-02:02:35.103(-4)? [39m       date: Tue Sep 29 2015 02:02:35 GMT-0400 (EDT),
+[34mI20150929-02:02:35.103(-4)? [39m       rootNode: [Circular],
+[34mI20150929-02:02:35.104(-4)? [39m       keepBcc: false,
+[34mI20150929-02:02:35.104(-4)? [39m       filename: 'attachment-1.bin',
+[34mI20150929-02:02:35.104(-4)? [39m       parentNode: [Circular],
+[34mI20150929-02:02:35.104(-4)? [39m       childNodes: [],
+[34mI20150929-02:02:35.105(-4)? [39m       _nodeId: 3,
+[34mI20150929-02:02:35.105(-4)? [39m       _headers: [Object],
+[34mI20150929-02:02:35.105(-4)? [39m       _isPlainText: true,
+[34mI20150929-02:02:35.106(-4)? [39m       _canUseFlowedContent: false,
+[34mI20150929-02:02:35.106(-4)? [39m       _isFlowedContent: false,
+[34mI20150929-02:02:35.106(-4)? [39m       _envelope: false,
+[34mI20150929-02:02:35.107(-4)? [39m       _transforms: [],
+[34mI20150929-02:02:35.107(-4)? [39m       content: '' } ],
+[34mI20150929-02:02:35.107(-4)? [39m  _nodeId: 1,
+[34mI20150929-02:02:35.108(-4)? [39m  _headers: 
+[34mI20150929-02:02:35.108(-4)? [39m   [ { key: 'Content-Type', value: 'multipart/mixed' },
+[34mI20150929-02:02:35.108(-4)? [39m     { key: 'From', value: 'ashutosh@badtrip.com' },
+[34mI20150929-02:02:35.108(-4)? [39m     { key: 'To', value: 'IanLuigi.Lastra@vishay.com' },
+[34mI20150929-02:02:35.109(-4)? [39m     { key: 'Subject', value: 'Test attachment' } ],
+[34mI20150929-02:02:35.109(-4)? [39m  _isPlainText: false,
+[34mI20150929-02:02:35.109(-4)? [39m  _canUseFlowedContent: false,
+[34mI20150929-02:02:35.110(-4)? [39m  _isFlowedContent: false,
+[34mI20150929-02:02:35.110(-4)? [39m  _envelope: false,
+[34mI20150929-02:02:35.111(-4)? [39m  _transforms: [] }
+[34mI20150929-02:02:35.123(-4)? [39m<Buffer 43 6f 6e 74 65 6e 74 2d 54 79 70 65 3a 20 6d 75 6c 74 69 70 61 72 74 2f 6d 69 78 65 64 3b 0d 0a 20 62 6f 75 6e 64 61 72 79 3d 22 2d 2d 2d 2d 73 69 6e 69 ...>
+[34mW20150929-02:02:35.141(-4)? (STDERR) [39m[35m[39m
+[34mW20150929-02:02:35.142(-4)? (STDERR) [39m[35m/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:155[39m
+[34mW20150929-02:02:35.142(-4)? (STDERR) [39m[35m		throw new Error('Can\'t wait without a fiber');[39m
+[34mW20150929-02:02:35.142(-4)? (STDERR) [39m[35m		      ^[39m
+[34mW20150929-02:02:35.155(-4)? (STDERR) [39m[35mError: Can't wait without a fiber[39m
+[34mW20150929-02:02:35.155(-4)? (STDERR) [39m[35m    at Function.wait (/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:155:9)[39m
+[34mW20150929-02:02:35.156(-4)? (STDERR) [39m[35m    at Object.Future.wait (/root/.meteor/packages/meteor-tool/.1.1.8.1pk1uu++os.linux.x86_64+web.browser+web.cordova/mt-os.linux.x86_64/dev_bundle/server-lib/node_modules/fibers/future.js:397:10)[39m
+[34mW20150929-02:02:35.156(-4)? (STDERR) [39m[35m    at smtpSend (packages/email/packages/email.js:94:1)[39m
+[34mW20150929-02:02:35.156(-4)? (STDERR) [39m[35m    at Object.Email.send (packages/email/packages/email.js:184:1)[39m
+[34mW20150929-02:02:35.157(-4)? (STDERR) [39m[35m    at app/server/globalMethods.js:48:1[39m
+[34mW20150929-02:02:35.157(-4)? (STDERR) [39m[35m    at PassThrough.<anonymous> (/root/newsfeedMaintenance/.meteor/local/isopacks/npm-container/npm/node_modules/mailcomposer/node_modules/buildmail/src/buildmail.js:373:16)[39m
+[34mW20150929-02:02:35.157(-4)? (STDERR) [39m[35m    at PassThrough.g (events.js:180:16)[39m
+[34mW20150929-02:02:35.157(-4)? (STDERR) [39m[35m    at PassThrough.emit (events.js:117:20)[39m
+[34mW20150929-02:02:35.158(-4)? (STDERR) [39m[35m    at _stream_readable.js:944:16[39m
+[34mW20150929-02:02:35.159(-4)? (STDERR) [39m[35m    at process._tickCallback (node.js:448:13)[39m
+=> Exited with code: 8
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Meteor server restarted
+[34mI20150929-02:02:44.032(-4)? [39mNewProductInfo  { selector: {}, options: { sort: { rev: -1 } } }
+=> Server modified -- restarting...Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+                                   => Meteor server restarted
+[34mI20150929-02:43:22.892(-4)? [39mNewProductInfo  { selector: {}, options: { sort: { rev: -1 } } }
+In remote catalog refresh
+Returning sync token:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443513048117,"versions":1443514233209,"builds":1443514234258,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+Adding syncToken:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443514908131,"versions":1443515256415,"builds":1443515257302,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+./startup.sh: line 18: 40259 Hangup                  MAIL_URL=smtp://hubmv01.corp.vishayint.com:25/ ROOT_URL=http://lxmv90.corp.vishayint.com:1964/ MONGO_URL=mongodb://eweb:you@lxmv90.corp.vishayint.com:27017/rev?authSource=admin MONGO_OPLOG_URL=mongodb://oplogger:oplogger@lxmv90.corp.vishayint.com:27017/local?authSource=admin meteor --port 1964 --verbose run
+[[[[[ ~/newsfeedMaintenance ]]]]]
+
+=> Started proxy.
+[[[[[ ~/newsfeedMaintenance ]]]]]
+
+=> Started proxy.
+=> A patch (Meteor 1.2.0.2) for your current release is available!
+   Update this project now with 'meteor update --patch'.
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Started your app.
+
+=> App running at: http://lxmv90.corp.vishayint.com:1964/
+[34mI20150930-03:08:21.312(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-03:08:21.313(-4)? [39m   { rev: 
+[34mI20150930-03:08:21.313(-4)? [39m      { '$gte': Wed Sep 23 2015 03:08:20 GMT-0400 (EDT),
+[34mI20150930-03:08:21.313(-4)? [39m        '$lt': Wed Sep 30 2015 03:08:20 GMT-0400 (EDT) } },
+[34mI20150930-03:08:21.313(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20150930-03:08:38.722(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-03:08:38.723(-4)? [39m   { rev: 
+[34mI20150930-03:08:38.723(-4)? [39m      { '$gte': Tue Jun 02 2015 03:08:36 GMT-0400 (EDT),
+[34mI20150930-03:08:38.723(-4)? [39m        '$lt': Wed Sep 30 2015 03:08:36 GMT-0400 (EDT) } },
+[34mI20150930-03:08:38.723(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20150930-03:09:45.629(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-03:09:45.630(-4)? [39m   { rev: 
+[34mI20150930-03:09:45.630(-4)? [39m      { '$gte': Tue Jun 02 2015 03:09:41 GMT-0400 (EDT),
+[34mI20150930-03:09:45.630(-4)? [39m        '$lt': Wed Sep 30 2015 03:09:41 GMT-0400 (EDT) } },
+[34mI20150930-03:09:45.630(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20150930-05:05:46.379(-4)? [39mNewProductInfo  { selector: {}, options: { sort: { rev: -1 } } }
+[34mI20150930-05:05:53.610(-4)? [39mNewProductInfo  { selector: { _id: { _str: '55f27920170d25733b8a2485' } } }
+[34mI20150930-05:06:12.971(-4)? [39mNewProductInfo  { selector: {}, options: { sort: { rev: -1 } } }
+[34mI20150930-05:07:37.225(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-05:07:37.226(-4)? [39m   { rev: 
+[34mI20150930-05:07:37.226(-4)? [39m      { '$gte': Wed Sep 23 2015 05:07:37 GMT-0400 (EDT),
+[34mI20150930-05:07:37.226(-4)? [39m        '$lt': Wed Sep 30 2015 05:07:37 GMT-0400 (EDT) } },
+[34mI20150930-05:07:37.227(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20150930-05:08:04.850(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-05:08:04.850(-4)? [39m   { rev: 
+[34mI20150930-05:08:04.850(-4)? [39m      { '$gte': Tue Jun 02 2015 05:08:03 GMT-0400 (EDT),
+[34mI20150930-05:08:04.850(-4)? [39m        '$lt': Wed Sep 30 2015 05:08:03 GMT-0400 (EDT) } },
+[34mI20150930-05:08:04.851(-4)? [39m  options: { sort: { rev: -1 } } }
+In remote catalog refresh
+Returning sync token:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443604551995,"versions":1443606184739,"builds":1443606186235,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+Adding syncToken:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443604551995,"versions":1443607493970,"builds":1443607495148,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+[34mI20150930-07:39:34.404(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-07:39:34.405(-4)? [39m   { rev: 
+[34mI20150930-07:39:34.405(-4)? [39m      { '$gte': Tue Jun 02 2015 03:09:41 GMT-0400 (EDT),
+[34mI20150930-07:39:34.405(-4)? [39m        '$lt': Wed Sep 30 2015 03:09:41 GMT-0400 (EDT) } },
+[34mI20150930-07:39:34.405(-4)? [39m  options: { sort: { rev: -1 } } }
+In remote catalog refresh
+Returning sync token:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443604551995,"versions":1443617745509,"builds":1443617746413,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+Adding syncToken:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443618356505,"versions":1443618358093,"builds":1443618359508,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+In remote catalog refresh
+Returning sync token:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443622498606,"versions":1443627849296,"builds":1443627852923,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+Adding syncToken:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443622498606,"versions":1443629175679,"builds":1443629183374,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+In remote catalog refresh
+Returning sync token:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443638950987,"versions":1443639118077,"builds":1443639119664,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+Adding syncToken:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443638950987,"versions":1443639801418,"builds":1443639119664,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+In remote catalog refresh
+Returning sync token:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443641000209,"versions":1443650352559,"builds":1443650058685,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+Adding syncToken:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443641000209,"versions":1443650806397,"builds":1443650852066,"releaseTracks":1440729519837,"releaseVersions":1443485690953}
+=> A patch (Meteor 1.2.0.2) for your current release is available!
+   Update this project now with 'meteor update --patch'.
+In remote catalog refresh
+Returning sync token:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443641000209,"versions":1443656690004,"builds":1443656690828,"releaseTracks":1440729519837,"releaseVersions":1443651821014}
+Adding syncToken:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443641000209,"versions":1443656690004,"builds":1443656690828,"releaseTracks":1440729519837,"releaseVersions":1443651821014}
+=> Server modified -- restarting...Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+                                   => Meteor server restarted
+=> Server modified -- restarting...Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+                                   => Meteor server restarted
+[34mI20150930-21:12:40.915(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-21:12:40.919(-4)? [39m   { rev: 
+[34mI20150930-21:12:40.919(-4)? [39m      { '$gte': Wed Sep 23 2015 21:12:40 GMT-0400 (EDT),
+[34mI20150930-21:12:40.919(-4)? [39m        '$lt': Wed Sep 30 2015 21:12:40 GMT-0400 (EDT) } },
+[34mI20150930-21:12:40.920(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20150930-21:12:56.806(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-21:12:56.807(-4)? [39m   { rev: 
+[34mI20150930-21:12:56.807(-4)? [39m      { '$gte': Tue Jun 02 2015 21:12:54 GMT-0400 (EDT),
+[34mI20150930-21:12:56.807(-4)? [39m        '$lt': Wed Sep 30 2015 21:12:54 GMT-0400 (EDT) } },
+[34mI20150930-21:12:56.807(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20150930-21:51:15.850(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-21:51:15.851(-4)? [39m   { rev: 
+[34mI20150930-21:51:15.851(-4)? [39m      { '$gte': Tue Jun 02 2015 21:51:14 GMT-0400 (EDT),
+[34mI20150930-21:51:15.851(-4)? [39m        '$lt': Wed Sep 30 2015 21:51:14 GMT-0400 (EDT) } },
+[34mI20150930-21:51:15.852(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshingLocal package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing (x2)
+[34mI20150930-21:54:30.677(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-21:54:30.677(-4)? [39m   { rev: 
+[34mI20150930-21:54:30.677(-4)? [39m      { '$gte': Tue Jun 02 2015 21:54:29 GMT-0400 (EDT),
+[34mI20150930-21:54:30.677(-4)? [39m        '$lt': Wed Sep 30 2015 21:54:29 GMT-0400 (EDT) } },
+[34mI20150930-21:54:30.678(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20150930-21:54:39.935(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-21:54:39.935(-4)? [39m   { rev: 
+[34mI20150930-21:54:39.935(-4)? [39m      { '$gte': Tue Jun 02 2015 21:54:39 GMT-0400 (EDT),
+[34mI20150930-21:54:39.935(-4)? [39m        '$lt': Wed Sep 30 2015 21:54:39 GMT-0400 (EDT) } },
+[34mI20150930-21:54:39.935(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20150930-21:57:28.844(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-21:57:28.845(-4)? [39m   { rev: 
+[34mI20150930-21:57:28.845(-4)? [39m      { '$gte': Tue Jun 02 2015 21:57:27 GMT-0400 (EDT),
+[34mI20150930-21:57:28.845(-4)? [39m        '$lt': Wed Sep 30 2015 21:57:27 GMT-0400 (EDT) } },
+[34mI20150930-21:57:28.845(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20150930-22:00:10.299(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-22:00:10.300(-4)? [39m   { rev: 
+[34mI20150930-22:00:10.300(-4)? [39m      { '$gte': Tue Jun 02 2015 22:00:09 GMT-0400 (EDT),
+[34mI20150930-22:00:10.301(-4)? [39m        '$lt': Wed Sep 30 2015 22:00:09 GMT-0400 (EDT) } },
+[34mI20150930-22:00:10.301(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20150930-22:01:15.215(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-22:01:15.216(-4)? [39m   { rev: 
+[34mI20150930-22:01:15.216(-4)? [39m      { '$gte': Tue Jun 02 2015 22:01:14 GMT-0400 (EDT),
+[34mI20150930-22:01:15.216(-4)? [39m        '$lt': Wed Sep 30 2015 22:01:14 GMT-0400 (EDT) } },
+[34mI20150930-22:01:15.216(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20150930-22:06:06.730(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-22:06:06.730(-4)? [39m   { rev: 
+[34mI20150930-22:06:06.730(-4)? [39m      { '$gte': Wed Sep 23 2015 22:06:06 GMT-0400 (EDT),
+[34mI20150930-22:06:06.730(-4)? [39m        '$lt': Wed Sep 30 2015 22:06:06 GMT-0400 (EDT) } },
+[34mI20150930-22:06:06.730(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20150930-22:06:17.615(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-22:06:17.615(-4)? [39m   { rev: 
+[34mI20150930-22:06:17.616(-4)? [39m      { '$gte': Tue Jun 02 2015 22:06:15 GMT-0400 (EDT),
+[34mI20150930-22:06:17.616(-4)? [39m        '$lt': Wed Sep 30 2015 22:06:15 GMT-0400 (EDT) } },
+[34mI20150930-22:06:17.616(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20150930-22:35:21.706(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-22:35:21.706(-4)? [39m   { rev: 
+[34mI20150930-22:35:21.707(-4)? [39m      { '$gte': Tue Jun 02 2015 22:35:19 GMT-0400 (EDT),
+[34mI20150930-22:35:21.707(-4)? [39m        '$lt': Wed Sep 30 2015 22:35:19 GMT-0400 (EDT) } },
+[34mI20150930-22:35:21.707(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20150930-22:40:26.953(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-22:40:26.954(-4)? [39m   { rev: 
+[34mI20150930-22:40:26.954(-4)? [39m      { '$gte': Tue Jun 02 2015 22:40:25 GMT-0400 (EDT),
+[34mI20150930-22:40:26.954(-4)? [39m        '$lt': Wed Sep 30 2015 22:40:25 GMT-0400 (EDT) } },
+[34mI20150930-22:40:26.954(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20150930-22:45:45.593(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-22:45:45.594(-4)? [39m   { rev: 
+[34mI20150930-22:45:45.594(-4)? [39m      { '$gte': Tue Jun 02 2015 22:45:43 GMT-0400 (EDT),
+[34mI20150930-22:45:45.594(-4)? [39m        '$lt': Wed Sep 30 2015 22:45:43 GMT-0400 (EDT) } },
+[34mI20150930-22:45:45.594(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Errors prevented startup:
+   
+   While processing files with templating (for target web.browser):
+   app/client/views/Newsfeed Email/newsfeedemail.html:21: Expected "td" end tag
+   ...="cid:hdr008">     </tr>     <tr>         <td
+   style="...
+   ^
+   
+=> Your application has errors. Waiting for file change.
+=> Modified -- restarting.
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Meteor server restarted
+[34mI20150930-23:05:37.508(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-23:05:37.510(-4)? [39m   { rev: 
+[34mI20150930-23:05:37.511(-4)? [39m      { '$gte': Tue Jun 02 2015 23:05:36 GMT-0400 (EDT),
+[34mI20150930-23:05:37.511(-4)? [39m        '$lt': Wed Sep 30 2015 23:05:36 GMT-0400 (EDT) } },
+[34mI20150930-23:05:37.511(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20150930-23:29:03.422(-4)? [39mNewProductInfo  { selector: 
+[34mI20150930-23:29:03.422(-4)? [39m   { rev: 
+[34mI20150930-23:29:03.422(-4)? [39m      { '$gte': Tue Jun 02 2015 23:29:03 GMT-0400 (EDT),
+[34mI20150930-23:29:03.423(-4)? [39m        '$lt': Wed Sep 30 2015 23:29:03 GMT-0400 (EDT) } },
+[34mI20150930-23:29:03.423(-4)? [39m  options: { sort: { rev: -1 } } }
+In remote catalog refresh
+Returning sync token:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443668589963,"versions":1443671894712,"builds":1443671895097,"releaseTracks":1440729519837,"releaseVersions":1443651821014}
+Adding syncToken:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443668589963,"versions":1443671894712,"builds":1443671895097,"releaseTracks":1440729519837,"releaseVersions":1443651821014}
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20151001-01:18:37.726(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-01:18:37.726(-4)? [39m   { rev: 
+[34mI20151001-01:18:37.726(-4)? [39m      { '$gte': Wed Jun 03 2015 01:18:37 GMT-0400 (EDT),
+[34mI20151001-01:18:37.726(-4)? [39m        '$lt': Thu Oct 01 2015 01:18:37 GMT-0400 (EDT) } },
+[34mI20151001-01:18:37.727(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20151001-01:47:13.419(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-01:47:13.419(-4)? [39m   { rev: 
+[34mI20151001-01:47:13.419(-4)? [39m      { '$gte': Wed Jun 03 2015 01:47:12 GMT-0400 (EDT),
+[34mI20151001-01:47:13.420(-4)? [39m        '$lt': Thu Oct 01 2015 01:47:12 GMT-0400 (EDT) } },
+[34mI20151001-01:47:13.420(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20151001-01:55:01.777(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-01:55:01.777(-4)? [39m   { rev: 
+[34mI20151001-01:55:01.778(-4)? [39m      { '$gte': Wed Jun 03 2015 01:55:01 GMT-0400 (EDT),
+[34mI20151001-01:55:01.778(-4)? [39m        '$lt': Thu Oct 01 2015 01:55:01 GMT-0400 (EDT) } },
+[34mI20151001-01:55:01.778(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-01:56:12.187(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-01:56:12.188(-4)? [39m   { rev: 
+[34mI20151001-01:56:12.188(-4)? [39m      { '$gte': Tue Sep 01 2015 01:56:09 GMT-0400 (EDT),
+[34mI20151001-01:56:12.188(-4)? [39m        '$lt': Thu Oct 01 2015 01:56:09 GMT-0400 (EDT) } },
+[34mI20151001-01:56:12.188(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-01:56:39.298(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-01:56:39.298(-4)? [39m   { rev: 
+[34mI20151001-01:56:39.298(-4)? [39m      { '$gte': Thu Dec 01 2011 19:00:00 GMT-0500 (EST),
+[34mI20151001-01:56:39.299(-4)? [39m        '$lt': Sat Dec 31 2011 19:00:00 GMT-0500 (EST) } },
+[34mI20151001-01:56:39.300(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-01:57:00.525(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-01:57:00.526(-4)? [39m   { rev: 
+[34mI20151001-01:57:00.526(-4)? [39m      { '$gte': Wed Dec 01 2010 19:00:00 GMT-0500 (EST),
+[34mI20151001-01:57:00.526(-4)? [39m        '$lt': Fri Dec 31 2010 19:00:00 GMT-0500 (EST) } },
+[34mI20151001-01:57:00.526(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-01:57:18.823(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-01:57:18.824(-4)? [39m   { rev: 
+[34mI20151001-01:57:18.824(-4)? [39m      { '$gte': Fri Sep 02 2011 20:00:00 GMT-0400 (EDT),
+[34mI20151001-01:57:18.824(-4)? [39m        '$lt': Sat Dec 31 2011 19:00:00 GMT-0500 (EST) } },
+[34mI20151001-01:57:18.825(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-01:57:40.308(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-01:57:40.309(-4)? [39m   { rev: 
+[34mI20151001-01:57:40.309(-4)? [39m      { '$gte': Tue Jul 03 2012 20:00:00 GMT-0400 (EDT),
+[34mI20151001-01:57:40.309(-4)? [39m        '$lt': Wed Oct 31 2012 20:00:00 GMT-0400 (EDT) } },
+[34mI20151001-01:57:40.309(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-02:02:49.062(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:02:49.063(-4)? [39m   { rev: 
+[34mI20151001-02:02:49.063(-4)? [39m      { '$gte': Fri Dec 02 2011 19:00:00 GMT-0500 (EST),
+[34mI20151001-02:02:49.064(-4)? [39m        '$lt': Sat Mar 31 2012 20:00:00 GMT-0400 (EDT) } },
+[34mI20151001-02:02:49.064(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-02:03:00.514(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:03:00.515(-4)? [39m   { rev: 
+[34mI20151001-02:03:00.515(-4)? [39m      { '$gte': Wed Dec 01 2010 19:00:00 GMT-0500 (EST),
+[34mI20151001-02:03:00.516(-4)? [39m        '$lt': Thu Mar 31 2011 20:00:00 GMT-0400 (EDT) } },
+[34mI20151001-02:03:00.516(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-02:04:12.064(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:04:12.065(-4)? [39m   { rev: 
+[34mI20151001-02:04:12.065(-4)? [39m      { '$gte': Sat Mar 12 2011 19:00:00 GMT-0500 (EST),
+[34mI20151001-02:04:12.065(-4)? [39m        '$lt': Sun Jul 10 2011 20:00:00 GMT-0400 (EDT) } },
+[34mI20151001-02:04:12.065(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-02:04:44.333(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:04:44.333(-4)? [39m   { rev: 
+[34mI20151001-02:04:44.334(-4)? [39m      { '$gte': Tue Mar 15 2011 20:00:00 GMT-0400 (EDT),
+[34mI20151001-02:04:44.334(-4)? [39m        '$lt': Wed Jul 13 2011 20:00:00 GMT-0400 (EDT) } },
+[34mI20151001-02:04:44.334(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20151001-02:06:48.791(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:06:48.792(-4)? [39m   { rev: 
+[34mI20151001-02:06:48.792(-4)? [39m      { '$gte': Tue Mar 15 2011 20:00:00 GMT-0400 (EDT),
+[34mI20151001-02:06:48.792(-4)? [39m        '$lt': Wed Jul 13 2011 20:00:00 GMT-0400 (EDT) } },
+[34mI20151001-02:06:48.793(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20151001-02:07:34.136(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:07:34.136(-4)? [39m   { rev: 
+[34mI20151001-02:07:34.137(-4)? [39m      { '$gte': Tue Mar 15 2011 20:00:00 GMT-0400 (EDT),
+[34mI20151001-02:07:34.137(-4)? [39m        '$lt': Wed Jul 13 2011 20:00:00 GMT-0400 (EDT) } },
+[34mI20151001-02:07:34.137(-4)? [39m  options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20151001-02:12:04.191(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:12:04.192(-4)? [39m   { rev: 
+[34mI20151001-02:12:04.192(-4)? [39m      { '$gte': Tue Mar 15 2011 20:00:00 GMT-0400 (EDT),
+[34mI20151001-02:12:04.192(-4)? [39m        '$lt': Wed Jul 13 2011 20:00:00 GMT-0400 (EDT) } },
+[34mI20151001-02:12:04.192(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-02:15:33.052(-4)? [39mNewProductInfo  { selector: {}, options: { sort: { rev: -1 } } }
+Local package version is up-to-date: amr:parsley.js@2.0.4
+Local package version is up-to-date: ashutosh:email-att@1.1.4
+Local package version is up-to-date: autoupdate@1.2.3
+Local package version is up-to-date: babel-compiler@5.8.24_1
+Local package version is up-to-date: babel-runtime@0.1.4
+Local package version is up-to-date: base64@1.0.4
+Local package version is up-to-date: binary-heap@1.0.4
+Local package version is up-to-date: blaze@2.1.3
+Local package version is up-to-date: blaze-html-templates@1.0.1
+Local package version is up-to-date: blaze-tools@1.0.4
+Local package version is up-to-date: boilerplate-generator@1.0.4
+Local package version is up-to-date: caching-compiler@1.0.0
+Local package version is up-to-date: caching-html-compiler@1.0.1
+Local package version is up-to-date: callback-hook@1.0.4
+Local package version is up-to-date: check@1.0.6
+Local package version is up-to-date: ddp@1.2.2
+Local package version is up-to-date: ddp-client@1.2.1
+Local package version is up-to-date: ddp-common@1.2.1
+Local package version is up-to-date: ddp-server@1.2.1
+Local package version is up-to-date: deps@1.0.9
+Local package version is up-to-date: diff-sequence@1.0.1
+Local package version is up-to-date: ecmascript@0.1.4
+Local package version is up-to-date: ecmascript-collections@0.1.6
+Local package version is up-to-date: ejson@1.0.7
+Local package version is up-to-date: email@1.0.7
+Local package version is up-to-date: fastclick@1.0.7
+Local package version is up-to-date: geojson-utils@1.0.4
+Local package version is up-to-date: hot-code-push@1.0.0
+Local package version is up-to-date: html-tools@1.0.5
+Local package version is up-to-date: htmljs@1.0.5
+Local package version is up-to-date: http@1.1.1
+Local package version is up-to-date: id-map@1.0.4
+Local package version is up-to-date: iron:controller@1.0.8
+Local package version is up-to-date: iron:core@1.0.8
+Local package version is up-to-date: iron:dynamic-template@1.0.8
+Local package version is up-to-date: iron:layout@1.0.8
+Local package version is up-to-date: iron:location@1.0.9
+Local package version is up-to-date: iron:middleware-stack@1.0.9
+Local package version is up-to-date: iron:router@1.0.9
+Local package version is up-to-date: iron:url@1.0.9
+Local package version is up-to-date: jquery@1.11.4
+Local package version is up-to-date: launch-screen@1.0.4
+Local package version is up-to-date: livedata@1.0.15
+Local package version is up-to-date: logging@1.0.8
+Local package version is up-to-date: meteor@1.1.7
+Local package version is up-to-date: meteor-base@1.0.1
+Local package version is up-to-date: meteorhacks:async@1.0.0
+Local package version is up-to-date: meteorhacks:npm@1.5.0
+Local package version is up-to-date: minifiers@1.1.7
+Local package version is up-to-date: minimongo@1.0.9
+Local package version is up-to-date: mizzao:bootstrap-3@3.3.1_1
+Local package version is up-to-date: mobile-experience@1.0.1
+Local package version is up-to-date: mobile-status-bar@1.0.6
+Local package version is up-to-date: mongo@1.1.1
+Local package version is up-to-date: mongo-id@1.0.1
+Local package version is up-to-date: npm-mongo@1.4.39_1
+Local package version is up-to-date: observe-sequence@1.0.7
+Local package version is up-to-date: ordered-dict@1.0.4
+Local package version is up-to-date: promise@0.4.8
+Local package version is up-to-date: rajit:bootstrap3-datepicker@1.4.1
+Local package version is up-to-date: random@1.0.4
+Local package version is up-to-date: reactive-dict@1.1.1
+Local package version is up-to-date: reactive-var@1.0.6
+Local package version is up-to-date: reload@1.1.4
+Local package version is up-to-date: retry@1.0.4
+Local package version is up-to-date: routepolicy@1.0.6
+Local package version is up-to-date: session@1.1.1
+Local package version is up-to-date: spacebars@1.0.7
+Local package version is up-to-date: spacebars-compiler@1.0.7
+Local package version is up-to-date: standard-minifiers@1.0.0
+Local package version is up-to-date: templating@1.1.3
+Local package version is up-to-date: templating-tools@1.0.0
+Local package version is up-to-date: tomi:upload-jquery@2.1.8
+Local package version is up-to-date: tomi:upload-server@1.3.1
+Local package version is up-to-date: tracker@1.0.8
+Local package version is up-to-date: ui@1.0.8
+Local package version is up-to-date: underscore@1.0.4
+Local package version is up-to-date: url@1.0.5
+Local package version is up-to-date: webapp@1.2.2
+Local package version is up-to-date: webapp-hashing@1.0.5
+=> Client modified -- refreshing
+[34mI20151001-02:17:47.930(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:17:47.931(-4)? [39m   { rev: 
+[34mI20151001-02:17:47.931(-4)? [39m      { '$gte': Tue Mar 15 2011 20:00:00 GMT-0400 (EDT),
+[34mI20151001-02:17:47.931(-4)? [39m        '$lt': Wed Jul 13 2011 20:00:00 GMT-0400 (EDT) } },
+[34mI20151001-02:17:47.931(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-02:18:08.993(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:18:08.994(-4)? [39m   { rev: 
+[34mI20151001-02:18:08.994(-4)? [39m      { '$gte': Wed Jun 03 2015 02:18:08 GMT-0400 (EDT),
+[34mI20151001-02:18:08.994(-4)? [39m        '$lt': Thu Oct 01 2015 02:18:08 GMT-0400 (EDT) } },
+[34mI20151001-02:18:08.994(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-02:31:03.632(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:31:03.632(-4)? [39m   { rev: 
+[34mI20151001-02:31:03.632(-4)? [39m      { '$gte': Wed Jun 03 2015 02:18:08 GMT-0400 (EDT),
+[34mI20151001-02:31:03.633(-4)? [39m        '$lt': Thu Oct 01 2015 02:18:08 GMT-0400 (EDT) } },
+[34mI20151001-02:31:03.633(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-02:39:24.109(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:39:24.109(-4)? [39m   { rev: 
+[34mI20151001-02:39:24.109(-4)? [39m      { '$gte': Wed Jun 03 2015 02:39:23 GMT-0400 (EDT),
+[34mI20151001-02:39:24.109(-4)? [39m        '$lt': Thu Oct 01 2015 02:39:23 GMT-0400 (EDT) } },
+[34mI20151001-02:39:24.109(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-02:57:18.551(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-02:57:18.551(-4)? [39m   { rev: 
+[34mI20151001-02:57:18.551(-4)? [39m      { '$gte': Wed Jun 03 2015 02:57:18 GMT-0400 (EDT),
+[34mI20151001-02:57:18.551(-4)? [39m        '$lt': Thu Oct 01 2015 02:57:18 GMT-0400 (EDT) } },
+[34mI20151001-02:57:18.552(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-03:05:19.095(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-03:05:19.096(-4)? [39m   { rev: 
+[34mI20151001-03:05:19.096(-4)? [39m      { '$gte': Wed Jun 03 2015 03:05:18 GMT-0400 (EDT),
+[34mI20151001-03:05:19.096(-4)? [39m        '$lt': Thu Oct 01 2015 03:05:18 GMT-0400 (EDT) } },
+[34mI20151001-03:05:19.096(-4)? [39m  options: { sort: { rev: -1 } } }
+In remote catalog refresh
+Returning sync token:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443668589963,"versions":1443682729239,"builds":1443682187070,"releaseTracks":1440729519837,"releaseVersions":1443651821014}
+Adding syncToken:
+{"lastDeletion":1409018311766,"format":"1.1","packages":1443668589963,"versions":1443683011093,"builds":1443683011474,"releaseTracks":1440729519837,"releaseVersions":1443651821014}
+[34mI20151001-04:14:14.615(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-04:14:14.615(-4)? [39m   { rev: 
+[34mI20151001-04:14:14.616(-4)? [39m      { '$gte': Wed Jun 03 2015 04:14:14 GMT-0400 (EDT),
+[34mI20151001-04:14:14.616(-4)? [39m        '$lt': Thu Oct 01 2015 04:14:14 GMT-0400 (EDT) } },
+[34mI20151001-04:14:14.616(-4)? [39m  options: { sort: { rev: -1 } } }
+[34mI20151001-04:15:16.645(-4)? [39mNewProductInfo  { selector: 
+[34mI20151001-04:15:16.646(-4)? [39m   { rev: 
+[34mI20151001-04:15:16.646(-4)? [39m      { '$gte': Wed Jun 03 2015 04:15:14 GMT-0400 (EDT),
+[34mI20151001-04:15:16.646(-4)? [39m        '$lt': Thu Oct 01 2015 04:15:14 GMT-0400 (EDT) } },
+[34mI20151001-04:15:16.646(-4)? [39m  options: { sort: { rev: -1 } } }

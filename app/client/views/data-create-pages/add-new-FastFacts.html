@@ -1,0 +1,73 @@
+<template name="addNewFastFacts">
+	<div class="panel panel-primary">
+		<div class="panel-heading"><div class="vsh-nf-pg-title"> Add New Fast Facts</div></div>
+		<div class="panel-body">
+		
+		<form id="vnm-form">	
+		<div class="panel panel-default">
+		<div class="panel-heading"><b>Fast Facts details</b></div>
+		<div class="panel-body">
+			<div class="input-group date">
+				<span class="input-group-addon" id="basic-addon1">Date</span>
+				<input required id="txt-date" type="text" class="form-control"><span class="input-group-addon"><i class="glyphicon glyphicon-th"></i></span>
+			</div>
+			<br>
+			<div class="input-group">
+				<span class="input-group-addon" id="basic-addon1">Description</span>
+				<textarea required id="txt-description" rows="3" class="form-control" placeholder="Enter New Product info description" aria-describedby="basic-addon1"></textarea>
+			</div>
+			<br>
+			<div class="input-group">
+					<span class="input-group-addon" id="basic-addon1">Product Group</span>
+			    	<select required class="form-control" id="sel-prod-group">
+						<option value="">Select Product Group</option>
+						{{#each semiconductors}}
+						<optgroup label="{{key}}">
+							{{#each subSemiconductors this.num}}
+								<option value="{{num}}">{{{key}}}</option>
+							{{/each}}
+						</optgroup>
+						{{/each}}
+						{{#each passiveComponents}}
+						<optgroup label="{{key}}">
+							{{#each subPassiveComponents this.num}}
+								<option value="{{num}}">{{{key}}}</option>
+							{{/each}}
+						</optgroup>
+						{{/each}}
+					</select>
+			</div>
+
+			<br>
+			<div class="panel panel-default">
+			<div class="panel-heading"><b>Upload Files</b></div>
+			<div class="panel-body">
+				<div class="upload-pdf">
+					<span>Doc (PDF)</span>
+						{{> upload_bootstrap fileTypes='.pdf' multiple=false callbacks=myCallbacks}}
+				</div>
+				<br>
+				<div class="upload-jpg">
+					<span>Image File</span>
+						{{> upload_bootstrap fileTypes='.jpg' multiple=false callbacks=myCallbacksjpg}}
+				</div>
+			</div>
+			</div> <!-- UPLOAD PANEL ENDS HERE -->
+
+
+		</div>
+		</div>
+
+		</form>
+		<div class="alert alert-success" role="alert" style="display:none;"><strong>Success!!</strong> added new fast fact. </div>
+		
+		</div><!-- panel body ends here -->
+	
+	
+
+	</div> <!-- PANEL PRIMARY ENDS HERE -->
+	
+	<button id="btn-npi-back" class="btn btn-default" style="float:right; margin-left:5px;"> <span class="glyphicon glyphicon-circle-arrow-left" aria-hidden="true"></span> Back </button>
+	<button id="btn-npi-save" class="btn btn-default" style="float:right;"> <span class="glyphicon glyphicon-floppy-saved" aria-hidden="true"></span> Save </button>
+
+</template>
